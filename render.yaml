@@ -15,4 +15,4 @@ services:
       - key: WATSONX_URL
         value: https://us-south.ml.cloud.ibm.com
       - key: WATSONX_MODEL_ID
-        value: ibm/granite-3-8b-instruct
+        value: ibm/granite-4-h-small
